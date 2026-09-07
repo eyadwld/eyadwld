@@ -2,68 +2,42 @@
 
 ### Backend Developer | Node.js • Express.js • MongoDB
 
-I'm a Computer Science student focused on **Backend Development** and building reliable, secure, and scalable web applications.
-
-I enjoy understanding how systems work behind the scenes — from **REST APIs and databases to authentication, security, real-time communication, and performance optimization**.
+Computer Science student focused on building **secure, scalable backend applications** and REST APIs.
 
 ---
 
-## 🚀 About Me
+## 🛠️ Tech Stack
 
-- 🎓 Computer Science student
-- 💻 Focused on **Backend Development with Node.js**
-- ⚙️ Building APIs with **Node.js & Express.js**
-- 🗄️ Working with **MongoDB/Mongoose & MySQL/Sequelize**
-- 🔐 Interested in **Authentication, Authorization & API Security**
-- ⚡ Learning how to build **fast, scalable backend systems**
-- 🌐 Experience with **REST APIs & GraphQL**
-- 💬 Working with **Socket.IO & real-time applications**
-- 💳 Experience integrating **payment systems**
-- 🚦 Learning **Rate Limiting & backend performance optimization**
-- 🧠 Continuously improving my **Computer Science & Software Engineering fundamentals**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,python,cpp,nodejs,express,mongodb,mysql,react,html,css,tailwind,git,github,linux,vscode" />
+</p>
+
+**Backend:** Node.js · Express.js · Mongoose · Sequelize  
+**APIs:** REST · GraphQL · JWT · Socket.IO  
+**Security:** Authentication · Authorization · CORS · CSRF · Rate Limiting
 
 ---
 
-# 🛠️ Tech Stack
+## 📊 GitHub Stats
 
-### 💻 Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,python,cpp" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eyadwld&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eyadwld&theme=github-dark-blue&hide_border=true" height="170"/>
 </p>
 
-### ⚙️ Backend
+---
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-</p>
+## 📫 Connect With Me
 
-**Node.js • Express.js • Mongoose • Sequelize**
+<a href="mailto:eyadwld208@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/eyadwld">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-### 🎨 Frontend
+---
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
-</p>
-
-### 🔌 APIs & Backend Technologies
-
-- REST APIs
-- GraphQL
-- Authentication & Authorization
-- JWT
-- Sessions & Cookies
-- CORS
-- CSRF Protection
-- Input Validation
-- Rate Limiting
-- File Uploads
-- WebSockets / Socket.IO
-- Payment Integration
-- Email Services
-
-### 🧰 Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,npm,figma" />
+<p align="center">
+  <i>Building. Learning. Improving. 🚀</i>
 </p>

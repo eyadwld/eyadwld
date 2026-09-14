@@ -21,7 +21,7 @@ Computer Science student focused on building **secure, scalable backend applicat
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eyadwld&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eyadwld&theme=github-dark-blue&hide_border=true" height="170"/>
 </p>
 
